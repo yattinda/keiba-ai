@@ -1,3 +1,4 @@
 *.log
 encoded_*.csv
 slurm/
+*.sif
